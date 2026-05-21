@@ -1,0 +1,6 @@
+{
+  "name": "Outdoor Coffee Finder",
+  "description": "Find local coffee shops that feature outdoor seating options including patios, gardens, and sidewalk layouts using AI-powered location insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
